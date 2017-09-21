@@ -6,7 +6,7 @@
 
 """
 ToDo:
-Wlan Funktionalitaetssd - 2x
+Wlan Funktionalitaetssd - 2
 """
 
 from tkinter import *

@@ -1,0 +1,10 @@
+{
+    "pause": 10,
+    "runde": 20,
+    "runden": 4,
+    "skin": 2,
+    "tensec": true,
+    "tensec_anzeige": "Ja",
+    "ton": 10,
+    "volume": 1
+}
